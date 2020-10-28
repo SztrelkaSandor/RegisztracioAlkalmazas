@@ -51,6 +51,7 @@ namespace RegisztracioAlkalmazas
                 if (result != DialogResult.OK)
                 {
                     return;
+
                 }
                 string fileName = saveFileDialog1.FileName;
 
